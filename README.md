@@ -19,12 +19,13 @@ El objetivo del proyecto es practicar el diseño y desarrollo web utilizando HTM
 ---Estructura del proyecto---
 
 /
-├── index.html
-├── js/
-│   └── app.js
-├── assets/
-│   └── images/
-└── README.md
+/index.html
+/contacto.html
+/eventos.html
+/puedohacerlo.html
+/registrarse.html
+/assets/imágenes
+/README.md
 
 index.html: página principal del sitio
 
