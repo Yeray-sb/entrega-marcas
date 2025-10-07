@@ -48,6 +48,11 @@ GitHub Pages (para el despliegue)
 El proyecto está publicado mediante GitHub Pages y puede visitarse en:
 https://yeray-sb.github.io/entrega-marcas/
 
+---Paleta de Colores---
+
+![AdobeColor-Proyecto IWA](https://github.com/user-attachments/assets/20f5fcea-a67b-400a-82be-f4b90d9377ba)
+
+
 ---Créditos---
 
 Proyecto desarrollado por Yeray como entrega para la asignatura de Aplicaciones Web.
