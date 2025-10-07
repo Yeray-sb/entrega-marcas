@@ -54,7 +54,7 @@ Proyecto desarrollado por Yeray como entrega para la asignatura de Aplicaciones 
 
 ---Contacto---
 
-Nombre: Yeray Sánchez Burgui
+Nombre: Yeray Sánchez Burgui ;
 Estudiante de: Aplicaciones Web - ASIR
 Correo: yerays163@gmail.com
 GitHub: @Yeray-sb
