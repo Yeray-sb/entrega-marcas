@@ -29,7 +29,7 @@ El objetivo del proyecto es practicar el diseño y desarrollo web utilizando HTM
 
 index.html: página principal del sitio
 
-js/: scripts con funcionalidad e interactividad
+js/: scripts con funcionalidad e interactividad (Mapa)
 
 assets/: imágenes e iconos del proyecto
 
@@ -50,4 +50,12 @@ https://yeray-sb.github.io/entrega-marcas/
 
 ---Créditos---
 
-Proyecto desarrollado por Yeray como entrega para la asignatura de Lenguaje de Marcas.
+Proyecto desarrollado por Yeray como entrega para la asignatura de Aplicaciones Web.
+
+---Contacto---
+
+Nombre: Yeray Sánchez Burgui
+Estudiante de: Aplicaciones Web - ASIR
+Correo: yerays163@gmail.com
+GitHub: @Yeray-sb
+LinkedIn: 
