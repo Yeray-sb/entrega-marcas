@@ -50,7 +50,7 @@ https://yeray-sb.github.io/entrega-marcas/
 
 ---Paleta de Colores---
 
-![AdobeColor-Proyecto IWA](https://github.com/user-attachments/assets/20f5fcea-a67b-400a-82be-f4b90d9377ba)
+![AdobeColor-Proyecto IWA](https://github.com/user-attachments/assets/c0027c91-f778-41d6-a05f-a20787a7c153)
 
 
 ---Créditos---
