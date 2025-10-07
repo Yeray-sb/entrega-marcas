@@ -52,6 +52,9 @@ https://yeray-sb.github.io/entrega-marcas/
 
 ![AdobeColor-Proyecto IWA](https://github.com/user-attachments/assets/c0027c91-f778-41d6-a05f-a20787a7c153)
 
+---Tipografías---
+<img width="1455" height="167" alt="image" src="https://github.com/user-attachments/assets/d3e4c342-d63b-4ea3-a3f7-e08f4aefa991" />
+
 
 ---Créditos---
 
