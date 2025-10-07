@@ -18,14 +18,14 @@ El objetivo del proyecto es practicar el diseño y desarrollo web utilizando HTM
 
 ---Estructura del proyecto---
 
-/
-/index.html
-/contacto.html
-/eventos.html
-/puedohacerlo.html
-/registrarse.html
-/assets/imágenes
-/README.md
+- /
+- /index.html
+- /contacto.html
+- /eventos.html
+- /puedohacerlo.html
+- /registrarse.html
+- /assets/imágenes
+- /README.md
 
 index.html: página principal del sitio
 
@@ -54,8 +54,7 @@ Proyecto desarrollado por Yeray como entrega para la asignatura de Aplicaciones 
 
 ---Contacto---
 
-Nombre: Yeray Sánchez Burgui
-Estudiante de: Aplicaciones Web - ASIR
-Correo: yerays163@gmail.com
-GitHub: @Yeray-sb
-LinkedIn: 
+- Nombre: Yeray Sánchez Burgui
+- Estudiante de: Aplicaciones Web - ASIR
+- Correo: yerays163@gmail.com
+- GitHub: @Yeray-sb
